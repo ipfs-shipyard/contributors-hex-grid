@@ -525,7 +525,6 @@ footer ~ nav a:not(.close-menu):first-child {
   opacity: 1;
 }
 .mission-background .container:before {
-  background-image: url(./img/grd_mission.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -540,7 +539,6 @@ footer ~ nav a:not(.close-menu):first-child {
   width: 131.58%;
 }
 .work-background .container:before {
-  background-image: url(../img/grd_work.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -899,7 +897,6 @@ footer ~ nav a:not(.close-menu):first-child {
 }
 .join-pink-background .container:after,
 .team-pink-background .container:after {
-  background-image: url(./img/grd_mission.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
