@@ -2,4 +2,4 @@
 
 ![](/screenshot/screenshot.png)
 
-[`latest`](https://ipfs.io/ipfs/QmR3SVTpy5mngCa58emno4hE2ugjNcfePodyrVpJTiC8NC/)
+[`latest`](https://ipfs.io/ipfs/QmUoZFZHK5csykaQVMPYHfVG6rqRo7BjtVmDGs5xWFdKHR/)
