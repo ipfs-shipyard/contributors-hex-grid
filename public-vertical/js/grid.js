@@ -21,6 +21,7 @@ function shuffle (array) {
 }
 
 var shuffled = shuffle(contributors)
+console.log('Total:', shuffled.length)
 
 shuffled.forEach(function (val) {
   var img = $('<img />', {
