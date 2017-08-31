@@ -1,4 +1,4 @@
-/* global $, Image, contributorsJson, requestAnimationFrame */
+/* global $, Image, contributors, requestAnimationFrame */
 
 function transitionForProgressInRange (progress, startValue, endValue) {
   return startValue + (endValue - startValue) * progress
@@ -177,7 +177,7 @@ $('.contributors')
       var parent = contributorsAnimationFrame.contributors.find('.items')
       var slider = contributorsAnimationFrame.contributors.find('.item-slider')
 
-      var items = contributorsJson
+      var items = contributors
         // $.get('https://contributors.cloud.ipfs.team/contributors?org=all', function(items) {
       shuffle(items).slice(0, items.length - items.length % 4).forEach(function (item, index) {
         var itemNode = figure.clone()

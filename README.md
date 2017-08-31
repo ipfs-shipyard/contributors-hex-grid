@@ -9,8 +9,8 @@
 
 
 
-- [`latest horizonal`](https://ipfs.io/ipfs/QmUoZFZHK5csykaQVMPYHfVG6rqRo7BjtVmDGs5xWFdKHR/)
+- [`latest horizonal`](https://ipfs.io/ipfs/QmZoRwgVQfCervLeXVG87A7RYhrYBCdthu3AS4kjSF7dws)
 
-- [`latest vertical black bg`](https://ipfs.io/ipfs/QmeqvmsiWAZquutCPbj23kgoUDqp9ct2idmURrgV7eF3NW/)
+- [`latest vertical black bg`](https://ipfs.io/ipfs/QmbcLSn3xvMdATgnfphwf1yDcYNrBDU4gBmv13MatK63cN)
 
-- [`latest vertical white bg`](https://ipfs.io/ipfs/QmYqmPtCA316Qivhyb7qaSX949pheGoPvebBQCrmWVQ6Pa/)
+- [`latest vertical white bg`](https://ipfs.io/ipfs/QmVNsFGDQPa2kJHUHxQmYJddzwDZdX2twpvwFF2jaChAix)
