@@ -1,4 +1,4 @@
-[
+var contributors = [
   {
     "url": "https://github.com/dirkmc",
     "photo": "https://avatars3.githubusercontent.com/u/169124?v=4",
